@@ -16,8 +16,10 @@ The program could randomly generate a given number of buildings and visualizes t
 
 * ##### External dependencies
     ```pip install matplotlib```
+    
     ```pip install numpy```
 * Run the program
+
     ```python sweepline.py```
 
 ## Files
